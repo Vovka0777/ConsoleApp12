@@ -1,0 +1,6 @@
+D:\Белько 215\ConsoleApp12(2)\bin\Debug\ConsoleApp12(2).exe.config
+D:\Белько 215\ConsoleApp12(2)\bin\Debug\ConsoleApp12(2).exe
+D:\Белько 215\ConsoleApp12(2)\bin\Debug\ConsoleApp12(2).pdb
+D:\Белько 215\ConsoleApp12(2)\obj\Debug\ConsoleApp12(2).csproj.CoreCompileInputs.cache
+D:\Белько 215\ConsoleApp12(2)\obj\Debug\ConsoleApp12(2).exe
+D:\Белько 215\ConsoleApp12(2)\obj\Debug\ConsoleApp12(2).pdb
